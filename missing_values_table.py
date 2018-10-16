@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 16 13:00:04 2018
-
-@author: yanchao
-"""
 
 # make a summary for DataFrame
 def missing_values_table(df):
